@@ -1,0 +1,3 @@
+// newtype pattern
+
+// TODO: implement
