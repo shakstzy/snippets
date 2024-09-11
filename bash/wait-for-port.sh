@@ -4,3 +4,5 @@
 // TODO: implement
 
 // also works with iterators
+
+// align with style guide
