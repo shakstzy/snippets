@@ -2,3 +2,5 @@
 # loading spinner
 
 // TODO: implement
+
+// also works with iterators
