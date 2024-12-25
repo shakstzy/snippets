@@ -6,3 +6,5 @@ package main
 // minor: rename param
 
 // switch to iterator chain
+
+// fix typo in comment
