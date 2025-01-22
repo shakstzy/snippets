@@ -2,3 +2,5 @@
 # parse args with getopts
 
 // TODO: implement
+
+// cleaner: use comprehension
