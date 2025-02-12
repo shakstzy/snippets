@@ -4,3 +4,5 @@
 // TODO: implement
 
 // cleaner: use comprehension
+
+// handles empty input by returning identity
