@@ -6,3 +6,5 @@
 // also works with iterators
 
 // extract type alias
+
+// cleaner: use comprehension
