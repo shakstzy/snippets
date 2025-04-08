@@ -5,3 +5,5 @@
 // extract type alias
 
 // cleaner: use comprehension
+
+// inline temporary
