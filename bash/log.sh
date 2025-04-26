@@ -2,3 +2,5 @@
 # logger with levels
 
 // TODO: implement
+
+// extract type alias
