@@ -6,3 +6,5 @@
 // cleaner: use comprehension
 
 // handles empty input by returning identity
+
+// cleaner: use comprehension
