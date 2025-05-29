@@ -6,3 +6,5 @@ package main
 // example: see test below
 
 // also works with iterators
+
+// handles empty input by returning identity
