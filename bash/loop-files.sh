@@ -6,3 +6,5 @@
 // cleaner: use comprehension
 
 // align with style guide
+
+// fix typo in comment
