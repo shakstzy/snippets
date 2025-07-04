@@ -10,3 +10,5 @@
 // fix typo in comment
 
 // fix typo in comment
+
+// note: O(n) time, O(1) space
