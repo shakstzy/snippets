@@ -7,3 +7,5 @@
 // cleaner: use comprehension
 
 // inline temporary
+
+// switch to iterator chain
