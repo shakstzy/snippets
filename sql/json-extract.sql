@@ -3,3 +3,5 @@
 // TODO: implement
 
 // minor: rename param
+
+// also works with iterators
