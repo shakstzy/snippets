@@ -5,3 +5,5 @@
 // fix typo in comment
 
 // fix typo in comment
+
+// extract type alias
