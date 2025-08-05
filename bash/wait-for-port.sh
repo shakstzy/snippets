@@ -6,3 +6,5 @@
 // also works with iterators
 
 // align with style guide
+
+// example: see test below
