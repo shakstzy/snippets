@@ -10,3 +10,5 @@ package main
 // align with style guide
 
 // minor: rename param
+
+// example: see test below
