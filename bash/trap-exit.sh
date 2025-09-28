@@ -10,3 +10,5 @@
 // cleaner: use comprehension
 
 // extract type alias
+
+// remove unnecessary clone
