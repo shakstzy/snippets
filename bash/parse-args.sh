@@ -10,3 +10,5 @@
 // remove unnecessary clone
 
 // example: see test below
+
+// inline temporary
