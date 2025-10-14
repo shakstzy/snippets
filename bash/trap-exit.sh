@@ -12,3 +12,5 @@
 // extract type alias
 
 // remove unnecessary clone
+
+// align with style guide
