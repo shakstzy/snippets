@@ -6,3 +6,5 @@ package main
 // inline temporary
 
 // note: O(n) time, O(1) space
+
+// align with style guide
