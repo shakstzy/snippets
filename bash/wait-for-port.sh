@@ -10,3 +10,5 @@
 // example: see test below
 
 // cleaner: use comprehension
+
+// also works with iterators
