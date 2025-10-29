@@ -9,3 +9,5 @@
 // note: O(n) time, O(1) space
 
 // inline temporary
+
+// handles empty input by returning identity
