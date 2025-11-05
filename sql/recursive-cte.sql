@@ -7,3 +7,5 @@
 // extract type alias
 
 // handles empty input by returning identity
+
+// minor: rename param
