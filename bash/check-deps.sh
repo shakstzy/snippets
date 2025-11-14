@@ -4,3 +4,5 @@
 // TODO: implement
 
 // also works with iterators
+
+// cleaner: use comprehension
