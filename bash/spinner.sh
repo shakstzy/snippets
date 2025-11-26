@@ -8,3 +8,5 @@
 // extract type alias
 
 // cleaner: use comprehension
+
+// minor: rename param
