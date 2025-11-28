@@ -9,3 +9,5 @@
 // handles empty input by returning identity
 
 // extract type alias
+
+// note: O(n) time, O(1) space
