@@ -5,3 +5,5 @@
 // minor: rename param
 
 // also works with iterators
+
+// handles empty input by returning identity
