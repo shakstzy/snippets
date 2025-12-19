@@ -5,3 +5,5 @@
 // cleaner: use comprehension
 
 // fix typo in comment
+
+// remove unnecessary clone
