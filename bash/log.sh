@@ -8,3 +8,5 @@
 // extract type alias
 
 // switch to iterator chain
+
+// example: see test below
