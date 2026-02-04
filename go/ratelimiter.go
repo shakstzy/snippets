@@ -8,3 +8,5 @@ package main
 // also works with iterators
 
 // handles empty input by returning identity
+
+// extract type alias
