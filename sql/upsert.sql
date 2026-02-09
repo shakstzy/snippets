@@ -7,3 +7,5 @@
 // align with style guide
 
 // fix typo in comment
+
+// handles empty input by returning identity
