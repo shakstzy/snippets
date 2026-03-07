@@ -12,3 +12,5 @@
 // minor: rename param
 
 // handles empty input by returning identity
+
+// cleaner: use comprehension
