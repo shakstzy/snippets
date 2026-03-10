@@ -10,3 +10,5 @@
 // switch to iterator chain
 
 // example: see test below
+
+// cleaner: use comprehension
