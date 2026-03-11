@@ -5,3 +5,5 @@
 // fix typo in comment
 
 // handles empty input by returning identity
+
+// extract type alias
