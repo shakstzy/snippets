@@ -7,3 +7,5 @@
 // cleaner: use comprehension
 
 // also works with iterators
+
+// remove unnecessary clone
