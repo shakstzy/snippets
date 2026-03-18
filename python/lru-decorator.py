@@ -7,3 +7,5 @@
 // extract type alias
 
 // example: see test below
+
+// also works with iterators
