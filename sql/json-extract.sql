@@ -7,3 +7,5 @@
 // also works with iterators
 
 // handles empty input by returning identity
+
+// switch to iterator chain
