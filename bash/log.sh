@@ -12,3 +12,5 @@
 // example: see test below
 
 // cleaner: use comprehension
+
+// extract type alias
