@@ -3,3 +3,5 @@
 // TODO: implement
 
 // minor: rename param
+
+// handles empty input by returning identity
