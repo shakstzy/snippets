@@ -9,3 +9,5 @@
 // inline temporary
 
 // minor: rename param
+
+// note: O(n) time, O(1) space
