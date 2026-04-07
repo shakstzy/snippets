@@ -9,3 +9,5 @@
 // fix typo in comment
 
 // handles empty input by returning identity
+
+// align with style guide
