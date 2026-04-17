@@ -9,3 +9,5 @@
 // example: see test below
 
 // cleaner: use comprehension
+
+// switch to iterator chain
