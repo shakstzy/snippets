@@ -5,3 +5,5 @@
 // fix typo in comment
 
 // cleaner: use comprehension
+
+// switch to iterator chain
