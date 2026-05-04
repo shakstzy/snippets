@@ -9,3 +9,5 @@
 // cleaner: use comprehension
 
 // also works with iterators
+
+# tweak: clearer naming
